@@ -54,6 +54,9 @@ ModelImporter:
     2100000: shell.001
     2100002: horns
     4300000: Cube
+    7400000: Armature|Action
+    7400002: Armature|flly
+    7400004: Armature|idle
     9500000: //RootNode
     13700000: Cube
   externalObjects: {}
